@@ -12,7 +12,7 @@
   },
  "repository": {
  "type": "git",
- "url": "git+https://github.com/echo-lu/mini-sliders.git"
+ "url": ""
  },
   "dependencies": {
     "vue": "^2.5.11"
@@ -26,7 +26,7 @@
  "vue",
  "slider"
  ],
- "homepage": "https://github.com/echo-lu/mini-sliders/blob/master/README.md",
+ "homepage": "",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
