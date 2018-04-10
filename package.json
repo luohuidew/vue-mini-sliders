@@ -1,8 +1,8 @@
 {
-  "name": "mini-sliders",
+  "name": "vue-mini-sliders",
   "description": "vue轮播图组件",
   "version": "1.0.1",
-  "author": "Echo-lu <echo_lcp@163.com>",
+  "author": "Echo-luo <403304835@qq.com>",
   "main":"dist/vue-slider.js",
   "license": "MIT",
   "private": false,

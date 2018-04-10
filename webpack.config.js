@@ -11,7 +11,7 @@ module.exports = {
     filename: 'vue-slider.js',
     library: 'VueSlider',
     libraryTarget: 'umd',
-    umdNamedDefine: true 
+    umdNamedDefine: true
   },
   module: {
     rules: [
