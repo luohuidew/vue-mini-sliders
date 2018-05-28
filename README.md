@@ -1,4 +1,4 @@
-# vue-sliders
+# npm i vue-mini-sliders
 
 > vue轮播图组件
 
@@ -25,17 +25,17 @@ npm run build
 
 ## 实例
 首先在项目的入口文件（main.js）中引入
-``` 
-import Slider from 'mini-sliders'
-Vue.use(Slider) 
+```
+import Slider from 'vue-mini-sliders'
+Vue.use(Slider)
 ```
 
 然后使用该组件
-``` 
+```
 <Slider :sliders="sliders"  />
 ```
 
-``` 
+```
 sliders: {
         data: [
           {
@@ -48,9 +48,9 @@ sliders: {
         width:"1200px",//图片宽度，可选（默认800px）
         height:"600px",//图片高度，可选（默认400px）
         name: 'fade' //轮播图动画方式，可选（默认move）
-      } 
+      }
 ```
 
-关于vue封装插件并发布到npm上的步骤可参考我的微博[vue封装插件并发布到npm上](https://github.com/echo-lu/mini-sliders)
+关于vue封装插件并发布到npm上的步骤可参考我的微博[vue封装插件并发布到npm上](https://github.com/luohuidew/vue-mini-sliders)
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
